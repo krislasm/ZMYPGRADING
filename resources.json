@@ -1,0 +1,79 @@
+{
+    "resources": [
+        {
+            "name": "util/Dialog.fragment.xml"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "controller/n1.controller.js"
+        },
+        {
+            "name": "controller/historical.controller.js"
+        },
+        {
+            "name": "controller/View1.controller.js"
+        },
+        {
+            "name": "index.html"
+        },
+        {
+            "name": "manifest-bundle.zip"
+        },
+        {
+            "name": ".user.project.json"
+        },
+        {
+            "name": "localService/metadata.xml"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": "resources.json",
+            "merged": true
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": ".che/project.json"
+        },
+        {
+            "name": "view/historical.view.xml"
+        },
+        {
+            "name": "view/n1.view.xml"
+        },
+        {
+            "name": "view/View1.view.xml"
+        },
+        {
+            "name": ".project.json"
+        },
+        {
+            "name": "css/style.css"
+        },
+        {
+            "name": "css/style-dbg.css"
+        },
+        {
+            "name": "model/models.js"
+        },
+        {
+            "name": "model/models-dbg.js"
+        },
+        {
+            "name": "di.code-validation.core_issues.json"
+        },
+        {
+            "name": "neo-app.json"
+        }
+    ]
+}
